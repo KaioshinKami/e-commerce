@@ -5,6 +5,7 @@ function App() {
     <>
       <div>
         <p>Hello git</p>
+        <p>Hello git 2</p>
       </div>
     </>
   );
