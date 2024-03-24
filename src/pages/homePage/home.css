@@ -1,0 +1,152 @@
+/* Marcellus */
+@import url("https://fonts.googleapis.com/css2?family=Marcellus&display=swap");
+
+/* Josefin Sans */
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Marcellus&display=swap");
+
+/* josefin slab */
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Josefin+Slab:ital,wght@0,100..700;1,100..700&family=Marcellus&display=swap");
+
+* {
+  margin: 0;
+}
+
+header {
+  background-color: rgb(241, 255, 245);
+  background-repeat: repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.navbar {
+  width: 85%;
+  padding: 35px 100px;
+  display: flex;
+  justify-content: space-between;
+}
+
+#logo {
+  width: 161px;
+}
+
+.links {
+  font-size: 20px;
+  margin-right: 60px;
+  font-family: Josefin Sans;
+  text-decoration: none;
+  color: black;
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 20px;
+}
+
+.grid-main {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.left {
+  margin-left: 95px;
+  margin-top: 80px;
+}
+
+#plant3 {
+  padding: 100px;
+  background-color: rgb(227, 239, 214);
+  border-radius: 30px;
+}
+
+#fresh {
+  position: absolute;
+  margin: -60px;
+  left: 250px;
+}
+
+.middleText p {
+  margin-top: 170px;
+  font-size: 90px;
+  font-family: Marcellus;
+  width: 500px;
+  display: inline-block;
+  margin-left: 60px;
+}
+
+.chto-to {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+#salePng {
+  margin-top: 65px;
+  margin-left: 130px;
+}
+
+#image2 {
+  margin-top: 95px;
+  margin-left: 35px;
+}
+
+.image4 {
+}
+
+.grid-authentic {
+  display: grid;
+  grid-template-columns: 80px 1fr;
+  margin-top: 90px;
+  row-gap: 50px;
+}
+
+.descrp {
+  font-family: Josefin Slab;
+  font-size: 54px;
+}
+
+#info-1 {
+  font-weight: bold;
+}
+
+#info-2 {
+  font-size: 22px;
+}
+
+.image5 {
+  margin-top: 200px;
+  position: relative;
+}
+
+#image5-1 {
+  position: absolute;
+  left: 25px;
+  bottom: 23px;
+}
+
+#image5-2 {
+  position: absolute;
+  left: 12px;
+  bottom: 89px;
+}
+
+#more-items-descr {
+  font-size: 21px;
+  width: 187px;
+  margin-top: 280px;
+  font-family: Josefin Sans;
+}
+
+.more-items-div {
+  margin-left: 42px;
+}
+
+#button-more-items {
+  margin-top: 12px;
+  margin-left: 72px;
+  border: none;
+  cursor: pointer;
+  background-color: rgb(56, 142, 60);
+  color: white;
+  width: 145px;
+  height: 45px;
+  font-family: Josefin Slab;
+  font-weight: bold;
+  font-size: 18px;
+}
