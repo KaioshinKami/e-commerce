@@ -1,0 +1,70 @@
+.new-arrival {
+  text-align: center;
+  font-family: Marcellus;
+  font-size: 50px;
+  margin-top: 160px;
+}
+
+.grid-tovary {
+  margin: 0;
+  margin-top: 110px;
+  display: grid;
+  grid-template-columns: 349px 409px 314px 443px;
+  row-gap: 65px;
+}
+
+#t2 {
+  margin-left: 20px;
+}
+
+#t3 {
+  margin-left: 65px;
+}
+
+#t4 {
+  width: 400px;
+}
+
+#t5 {
+  margin-left: 40px;
+}
+
+#t6 {
+  margin-left: 65px;
+  display: inline-block;
+}
+
+#t7 {
+  margin-right: 120px;
+}
+
+#t8 {
+  margin-left: 60px;
+  width: 380px;
+}
+
+.addToCart {
+  position: absolute;
+  border: none;
+  cursor: pointer;
+  background-color: rgb(56, 142, 60);
+  color: white;
+  padding: 7px 15px 7px 15px;
+  font-family: Josefin Slab;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+#divBtm {
+  position: relative;
+}
+
+.B1 {
+  bottom: 85px;
+  right: -57px;
+}
+
+.B2 {
+  bottom: 55px;
+  right: 4px;
+}

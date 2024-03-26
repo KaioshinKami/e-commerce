@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+}
+
+header {
+  background-color: rgb(241, 255, 245);
+  background-repeat: repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.navbar {
+  width: 85%;
+  padding: 35px 100px;
+  display: flex;
+  justify-content: space-between;
+}
+
+#logo {
+  width: 161px;
+}
+
+.links {
+  font-size: 20px;
+  margin-right: 60px;
+  font-family: Josefin Sans;
+  text-decoration: none;
+  color: black;
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 20px;
+}
