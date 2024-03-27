@@ -21,7 +21,7 @@ const Footer = () => {
       <div>
         <p className="topic">Quick link</p>
 
-        <p className="paragr">Help & Support</p>
+        <p className="paragr"> Help & Support</p>
 
         <p className="paragr">Product Pricing</p>
 
