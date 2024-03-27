@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+}
+
+#info {
+  margin-top: 150px;
+  position: relative;
+}
+
+#back-img {
+  width: 100%;
+}
+
+.info-grid {
+  position: absolute;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  top: 0px;
+}
+
+#which {
+  font-family: Marcellus;
+  font-size: 70px;
+  color: white;
+}
+
+#info-div {
+  margin-top: 120px;
+  margin-left: 100px;
+}
+
+#its {
+  color: white;
+  font-family: Josefin Sans;
+  font-size: 20px;
+  margin-top: 70px;
+}
+
+#chair-img {
+  width: 870px;
+}

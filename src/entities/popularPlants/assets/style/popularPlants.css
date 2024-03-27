@@ -1,0 +1,106 @@
+.popularPlants {
+  margin-top: 160px;
+}
+
+#more {
+  font-size: 50px;
+  font-family: Marcellus;
+  text-align: center;
+  margin-bottom: 120px;
+}
+
+.grid-plants {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+#p1 {
+  margin-left: 20px;
+}
+
+#p1div {
+  position: relative;
+}
+
+#cartBtn {
+  position: absolute;
+  bottom: 80px;
+  right: 73px;
+
+  border: none;
+  cursor: pointer;
+  background-color: rgb(56, 142, 60);
+  color: white;
+  padding: 10px 17px 10px 17px;
+  font-family: Josefin Slab;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.secPart {
+  margin-top: 150px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.img5 {
+  margin-left: 50px;
+}
+
+.list {
+  margin-left: 85px;
+}
+
+#where {
+  font-family: Marcellus;
+  font-size: 50px;
+  width: 620px;
+  margin-bottom: 85px;
+}
+
+.first {
+  display: grid;
+  grid-template-columns: 95px 1fr;
+  margin-bottom: 60px;
+}
+
+#n1 {
+  font-size: 50px;
+  font-family: Josefin Slab;
+  padding: 25px 58px 25px 45px;
+  background-color: hsla(123, 41%, 45%, 0.308);
+  color: rgb(56, 142, 60);
+  border-radius: 50px;
+  font-weight: bold;
+  font-size: 50px;
+}
+
+#choose {
+  font-family: Marcellus;
+  font-size: 24px;
+}
+
+#nulla {
+  font-family: Josefin Sans;
+  font-size: 20px;
+  color: rgb(153, 153, 153);
+  width: 500px;
+  margin-top: 25px;
+}
+
+.info {
+  margin-left: 30px;
+}
+
+#readBtn {
+  margin-top: 90px;
+
+  border: none;
+  cursor: pointer;
+  background-color: rgb(56, 142, 60);
+  color: white;
+  padding: 15px 45px 15px 45px;
+  font-family: Josefin Slab;
+  font-weight: bold;
+  font-size: 24px;
+}

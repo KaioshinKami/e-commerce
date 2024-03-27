@@ -1,0 +1,72 @@
+* {
+  margin: 0;
+}
+
+.footer {
+  margin-top: 200px;
+  padding-top: 40px;
+
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr 1fr;
+  row-gap: 60px;
+  padding-left: 120px;
+  padding-right: 30px;
+  background-color: rgb(241, 255, 245);
+}
+
+#planti {
+  font-size: 20px;
+  font-family: Josefin Sans;
+  color: rgb(153, 153, 153);
+  width: 370px;
+  margin-top: 30px;
+}
+
+#terms {
+  font-size: 20px;
+  font-family: Josefin Sans;
+}
+
+.paragr {
+  margin-top: 15px;
+
+  font-size: 18px;
+  font-family: Josefin Sans;
+  color: rgb(153, 153, 153);
+}
+
+.topic {
+  font-family: Marcellus;
+  font-size: 24px;
+}
+
+#address {
+  font-size: 18px;
+  font-family: Josefin Sans;
+  color: rgb(153, 153, 153);
+  width: 150px;
+}
+
+#num {
+  margin-top: 15px;
+
+  font-size: 18px;
+  font-family: Josefin Sans;
+}
+
+#term {
+  font-family: Josefin Sans;
+  font-size: 20px;
+}
+
+.app-links img {
+  margin-right: 10px;
+}
+
+#right {
+  position: absolute;
+  right: 100px;
+  font-family: Josefin sans;
+  font-size: 20px;
+  margin-left: 120px;
+}

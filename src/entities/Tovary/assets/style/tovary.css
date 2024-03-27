@@ -68,3 +68,87 @@
   bottom: 55px;
   right: 4px;
 }
+
+.more-products {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin-top: 150px;
+}
+
+.pervoe {
+  text-align: center;
+}
+
+#spring-summer {
+  font-family: Josefin Slab;
+  color: rgb(67, 160, 71);
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 15px;
+}
+
+#weHave {
+  font-family: Marcellus;
+  font-size: 50px;
+  margin-bottom: 20px;
+}
+
+#allOur,
+#we-offer {
+  font-family: Josefin Sans;
+  font-size: 20px;
+  color: rgb(153, 153, 153);
+}
+
+.shopNow {
+  border: none;
+  cursor: pointer;
+  background-color: rgb(56, 142, 60);
+  color: white;
+  padding: 15px 50px 12px 50px;
+  font-family: Josefin Slab;
+  font-weight: bold;
+  font-size: 18px;
+  margin-top: 25px;
+  margin-bottom: 20px;
+}
+
+.vtoroe {
+  text-align: center;
+  position: relative;
+}
+
+#d2img {
+  margin-top: 70px;
+}
+
+#Beauti {
+  font-size: 50px;
+  font-family: Josefin Sans;
+  position: absolute;
+  top: 10px;
+  right: 192px;
+  width: 330px;
+}
+
+#plants {
+  font-family: Josefin Slab;
+  color: rgb(67, 160, 71);
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 15px;
+  margin-top: 66px;
+}
+
+#organie,
+#store {
+  font-family: Marcellus;
+}
+
+#organie {
+  font-size: 100px;
+}
+
+#store {
+  font-size: 70px;
+}

@@ -1,0 +1,56 @@
+#follow {
+  font-size: 20px;
+  font-family: Josefin Slab;
+  color: rgb(67, 160, 71);
+  font-weight: bold;
+  text-align: center;
+  margin-top: 150px;
+}
+
+#inst {
+  text-align: center;
+  font-size: 50px;
+  font-family: Marcellus;
+  margin-top: 55px;
+}
+
+.instagram-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  margin-left: 60px;
+  margin-right: 50px;
+  margin-top: 100px;
+}
+
+.adv-grid {
+  margin-top: 150px;
+  margin-left: 40px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.firstWithoutbr {
+  display: grid;
+  grid-template-columns: 80px 320px;
+  margin-left: 40px;
+}
+
+.second {
+  display: grid;
+  grid-template-columns: 80px 320px;
+  border-left: 2px solid rgb(217, 217, 217);
+  padding-left: 73px;
+}
+
+.free {
+  font-family: Marcellus;
+  font-size: 24px;
+}
+
+.emprow {
+  font-family: Josefin Sans;
+  font-size: 20px;
+  width: 300px;
+  color: rgb(153, 153, 153);
+  margin-top: 20px;
+}
