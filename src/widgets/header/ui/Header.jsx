@@ -1,4 +1,5 @@
 import "../assets/style/header.css";
+import { Link } from "react-router-dom";
 
 import image from "../assets/img/Group.svg";
 import cart from "../assets/img/cart.svg";
@@ -9,18 +10,18 @@ const Header = () => {
       <div className="navbar">
         <img src={image} alt="" id="logo" />
         <div>
-          <a href="" className="links">
+          <Link to="/" className="links">
             Home
-          </a>
-          <a href="" className="links">
+          </Link>
+          <Link to="/shop" className="links">
             Shop
-          </a>
-          <a href="" className="links">
+          </Link>
+          <Link to="/product" className="links">
             Product
-          </a>
-          <a href="">
+          </Link>
+          <Link to="/cart">
             <img src={cart} alt="" className="cartLink" />
-          </a>
+          </Link>
         </div>
       </div>
     </header>
