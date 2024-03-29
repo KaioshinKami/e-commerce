@@ -1,0 +1,61 @@
+.products-grid {
+  top: 400px;
+  right: 10px;
+  position: absolute;
+  display: grid;
+  grid-template-columns: 370px 370px 360px;
+  row-gap: 50px;
+}
+
+.products {
+  width: 320px;
+}
+
+.img-div {
+  position: relative;
+}
+
+#cartBtn1 {
+  border: none;
+  font-size: 16px;
+  font-family: Josefin Slab;
+  font-weight: bold;
+  color: white;
+  background-color: rgb(56, 142, 60);
+  width: 110px;
+  height: 35px;
+  position: absolute;
+  bottom: 50px;
+  right: 67px;
+  cursor: pointer;
+}
+
+#cartBtn2 {
+  border: none;
+  font-size: 16px;
+  font-family: Josefin Slab;
+  font-weight: bold;
+  color: white;
+  background-color: rgb(56, 142, 60);
+  width: 110px;
+  height: 35px;
+  position: absolute;
+  bottom: 50px;
+  right: 65px;
+  cursor: pointer;
+}
+
+#cartBtn7 {
+  border: none;
+  font-size: 16px;
+  font-family: Josefin Slab;
+  font-weight: bold;
+  color: white;
+  background-color: rgb(56, 142, 60);
+  width: 110px;
+  height: 35px;
+  position: absolute;
+  bottom: 50px;
+  right: 55px;
+  cursor: pointer;
+}

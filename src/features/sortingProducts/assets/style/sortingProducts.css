@@ -1,0 +1,62 @@
+.sorting-div {
+  margin-top: 70px;
+  width: 285px;
+  margin-left: 50px;
+  margin-bottom: 100%;
+}
+
+.nameOfSett {
+  font-size: 24px;
+  font-family: Marcellus;
+  border-bottom: 2px solid rgb(217, 217, 217);
+  margin-top: 12px;
+  margin-bottom: 12px;
+}
+
+.place {
+  font-size: 16px;
+  font-family: Josefin Sans;
+  margin-bottom: 12px;
+  margin-left: 20px;
+}
+
+#btnF {
+  border: none;
+  background-color: black;
+  color: white;
+  cursor: pointer;
+  font-size: 14px;
+  font-family: Josefin Slab;
+  font-weight: bold;
+  width: 75px;
+  height: 27px;
+}
+
+#colors-grid {
+  display: grid;
+  grid-template-columns: 6fr 1fr;
+}
+
+.colors {
+  font-size: 16px;
+  font-family: Josefin Sans;
+  margin-bottom: 12px;
+  margin-left: 20px;
+}
+
+.countsOfColors {
+  font-size: 16px;
+  font-family: Josefin Sans;
+  color: rgb(153, 153, 153);
+}
+
+.tags {
+  margin-left: 20px;
+  margin-bottom: 10px;
+  display: inline-block;
+  font-size: 16px;
+  font-family: Josefin Sans;
+  cursor: pointer;
+  background-color: white;
+  border: 1px solid rgb(217, 217, 217);
+}

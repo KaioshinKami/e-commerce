@@ -1,2 +1,2 @@
-import Tovary from "./ui/Tovary";
-export { Tovary };
+import TovaryHome from "./ui/TovaryHome";
+export { TovaryHome };

@@ -11,7 +11,7 @@ import t8 from "../assets/img/t-8.svg";
 import d1 from "../assets/img/t-9.svg";
 import d2 from "../assets/img/t-10.svg";
 
-const Tovary = () => {
+const TovaryHome = () => {
   return (
     <div>
       <p className="new-arrival">New Arrival</p>
@@ -79,4 +79,4 @@ const Tovary = () => {
     </div>
   );
 };
-export default Tovary;
+export default TovaryHome;

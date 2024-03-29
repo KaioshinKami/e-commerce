@@ -1,6 +1,6 @@
 import { Header } from "../../widgets/header/index";
 import { Intro } from "../../widgets/intro";
-import { Tovary } from "../../entities/Tovary";
+import { TovaryHome } from "../../entities/Tovary";
 import { Facts } from "../../entities/factsAboutPlants";
 import { PopularPlants } from "../../entities/popularPlants";
 import { InstagramPosts } from "../../entities/instagramPosts";
@@ -13,7 +13,7 @@ export default function Home() {
 
       <Intro></Intro>
 
-      <Tovary></Tovary>
+      <TovaryHome></TovaryHome>
 
       <Facts></Facts>
 
